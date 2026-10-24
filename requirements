@@ -1,3 +1,5 @@
-streamlit
 pymongo
 google-genai
+PyPDF2
+streamlit
+numpy
